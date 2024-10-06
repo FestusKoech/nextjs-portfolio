@@ -110,7 +110,7 @@ const EmailSection = () => {
                 name="message"
                 id="message"
                 className="bg-[#18191E] border border-[#33353F] placeholder-[hsl(212,7%,64%)] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="Don't bother sending, coz you could roast me so I disabled it 😅"
+                placeholder="Don't roast me 😅"
               />
             </div>
             <button
